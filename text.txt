@@ -1,8 +1,8 @@
-TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = "GbxbjRcHI0SpHna-JTEQBj-Rq2C9Dx0a"
-
-flight_code_updated_url = f"{TEQUILA_ENDPOINT}/locations/query"
-
-flight_search_url = f"{TEQUILA_ENDPOINT}/v2/search"
-
-headers = {"apikey": TEQUILA_API_KEY}
+#TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
+#TEQUILA_API_KEY = "GbxbjRcHI0SpHna-JTEQBj-Rq2C9Dx0a"
+#
+#flight_code_updated_url = f"{TEQUILA_ENDPOINT}/locations/query"
+#
+#flight_search_url = f"{TEQUILA_ENDPOINT}/v2/search"
+#
+#headers = {"apikey": TEQUILA_API_KEY}
